@@ -4,18 +4,18 @@ const posts =
 [
     {
         id: 1,
-        descricao: "img",
-        imagem: "https://placecats.com/millie/300/150",
+        desc: "img",
+        imgUrl: "https://placecats.com/millie/300/150",
     },
     {
         id: 2,
-        descricao: "img2",
-        imagem: "https://placecats.com/millie/300/150",
+        desc: "img2",
+        imgUrl: "https://placecats.com/millie/300/150",
     },
     {
         id: 3,
-        descricao: "img3",
-        imagem: "https://placecats.com/millie/300/150",
+        desc: "img3",
+        imgUrl: "https://placecats.com/millie/300/150",
     },
 ];
 
